@@ -1,0 +1,25 @@
+# Base de datos
+Database/**
+
+# Libros
+Engine/Documents/Books/**
+
+# Papers
+Engine/Documents/Papers/**
+
+# Entorno virtual
+venv/
+.venv/
+
+# Caché Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# ZIP
+*.zip
+
+# Reportes
+validation_report.json
